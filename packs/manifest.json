@@ -1,0 +1,15 @@
+{
+  "packs" : [
+    {
+      "keyID" : "production",
+      "minAppVersion" : "1.0",
+      "packID" : "c4-preview",
+      "packVersion" : 1,
+      "sha256" : "a5f0d620efae95da3c1ff237b43899cbd91a2b3917edb77068ad270e4d47a8dd",
+      "signature" : "hKgCwuniKwLcotu2wSyuooszujhvevHHGLR794xJysv2zC9wTzckEfDwqpXQCXjZqu41j28LtNHzArC8FfygBw==",
+      "size" : 82880,
+      "url" : "c4-preview-v1.json"
+    }
+  ],
+  "schemaVersion" : 1
+}

@@ -1,0 +1,2735 @@
+{
+  "chapters" : [
+    {
+      "blurb" : {
+        "en" : "A preview of what lies past the Rift. Delivered over the air."
+      },
+      "id" : "c4",
+      "levels" : [
+        {
+          "brief" : {
+            "en" : "The Rift is behind you. The pull is not."
+          },
+          "deprecated" : false,
+          "hints" : [
+            {
+              "en" : "What you learned about black holes still holds out here."
+            }
+          ],
+          "id" : "c4-l01",
+          "maps" : [
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 19.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        721.3,
+                        300
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "eventHorizon" : 18,
+                      "gm" : 10000000,
+                      "id" : 2,
+                      "position" : [
+                        402.2,
+                        729.5
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        1431.8,
+                        130.6
+                      ],
+                      "radius" : 84.5,
+                      "surface" : 84.5,
+                      "surfaceGravity" : 361
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "metal",
+                      "position" : [
+                        436,
+                        442.9
+                      ],
+                      "radius" : 64,
+                      "surface" : 64,
+                      "surfaceGravity" : 392
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l01-m1",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      52.7,
+                      162.4
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1325.9,
+                      416
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 1,
+                "generatorVersion" : 1,
+                "seed" : 43,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 1.7,
+                  "flightTime" : 8.116666666666667,
+                  "order" : {
+                    "angleTenths" : 89,
+                    "powerTenths" : 202,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.7,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 1.9,
+                  "flightTime" : 11.258333333333333,
+                  "order" : {
+                    "angleTenths" : 2376,
+                    "powerTenths" : 150,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.183333333333333,
+                  "order" : {
+                    "angleTenths" : 2120,
+                    "powerTenths" : 948,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.9,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.4499999999999997,
+                  "order" : {
+                    "angleTenths" : 2138,
+                    "powerTenths" : 875,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.5,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 15.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        1095.1,
+                        386.9
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        956.7,
+                        175.3
+                      ],
+                      "radius" : 73,
+                      "surface" : 73,
+                      "surfaceGravity" : 223
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l01-m2",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      111.7,
+                      323.7
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1443.5,
+                      286.7
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 3,
+                "generatorVersion" : 1,
+                "seed" : 81,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.841666666666667,
+                  "order" : {
+                    "angleTenths" : 163,
+                    "powerTenths" : 750,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.9,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.2916666666666665,
+                  "order" : {
+                    "angleTenths" : 138,
+                    "powerTenths" : 896,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3.9,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.591666666666667,
+                  "order" : {
+                    "angleTenths" : 1378,
+                    "powerTenths" : 951,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.3,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.8333333333333335,
+                  "order" : {
+                    "angleTenths" : 1357,
+                    "powerTenths" : 900,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.1,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 19.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        367,
+                        152.5
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "eventHorizon" : 17,
+                      "gm" : 10000000,
+                      "id" : 2,
+                      "position" : [
+                        675.7,
+                        553.6
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        1019.1,
+                        540.3
+                      ],
+                      "radius" : 56.5,
+                      "surface" : 56.5,
+                      "surfaceGravity" : 326
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l01-m3",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      64,
+                      717
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1299.4,
+                      586.4
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 4,
+                "generatorVersion" : 1,
+                "seed" : 69,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 3.3,
+                  "flightTime" : 27.05,
+                  "order" : {
+                    "angleTenths" : 632,
+                    "powerTenths" : 451,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.1,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 1.4,
+                  "flightTime" : 8.091666666666667,
+                  "order" : {
+                    "angleTenths" : 3267,
+                    "powerTenths" : 305,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.8,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 2.3,
+                  "flightTime" : 7.575,
+                  "order" : {
+                    "angleTenths" : 1130,
+                    "powerTenths" : 450,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.2,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.9,
+                  "flightTime" : 3.075,
+                  "order" : {
+                    "angleTenths" : 1527,
+                    "powerTenths" : 925,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.7,
+                  "shooter" : 2
+                }
+              ]
+            }
+          ],
+          "objectives" : [
+            {
+              "kind" : "winMatch"
+            },
+            {
+              "kind" : "loseNoRound"
+            },
+            {
+              "kind" : "winWithinShots",
+              "shots" : 9
+            }
+          ],
+          "opponent" : {
+            "id" : "null",
+            "name" : {
+              "en" : "The Null"
+            },
+            "parameters" : {
+              "initialNoise" : {
+                "angle" : 1.1599092269590578,
+                "power" : 1.7782459267702473
+              },
+              "noiseDecay" : 0.54,
+              "preferRobust" : true,
+              "searchBudget" : {
+                "angleGrowthLimitTenths" : 60,
+                "grid" : {
+                  "angleStepTenths" : 20,
+                  "powerStepTenths" : 50,
+                  "powerTenthsRange" : [
+                    50,
+                    1000
+                  ]
+                },
+                "maxRegions" : 8,
+                "powerGrowthLimitTenths" : 300,
+                "refineCandidates" : 16,
+                "refineSimulations" : 60,
+                "scanMaxSteps" : 1500
+              },
+              "selfRiskPenalty" : 0.5,
+              "thinkTimeFloor" : 0.8
+            },
+            "taunts" : [
+              {
+                "en" : "…"
+              },
+              {
+                "en" : "Nothing escapes. Not even you."
+              }
+            ]
+          },
+          "rating" : 4.3,
+          "requires" : [
+            "body.blackhole",
+            "body.planet",
+            "objective.loseNoRound",
+            "objective.winMatch",
+            "objective.winWithinShots",
+            "weapon.standard"
+          ],
+          "rules" : {
+            "bestOf" : 3,
+            "firstShooter" : 1
+          },
+          "title" : {
+            "en" : "Afterglow"
+          }
+        },
+        {
+          "brief" : {
+            "en" : "Two dark wells, one narrow lane between them."
+          },
+          "deprecated" : false,
+          "hints" : [
+            {
+              "en" : "Aim for the lane's middle and let both pulls cancel out."
+            }
+          ],
+          "id" : "c4-l02",
+          "maps" : [
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 20,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        274.8,
+                        795.4
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        1122.6,
+                        140.6
+                      ],
+                      "radius" : 81.5,
+                      "surface" : 81.5,
+                      "surfaceGravity" : 206
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "metal",
+                      "position" : [
+                        782.1,
+                        442.5
+                      ],
+                      "radius" : 55,
+                      "surface" : 55,
+                      "surfaceGravity" : 415
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "rock",
+                      "position" : [
+                        228.9,
+                        87.4
+                      ],
+                      "radius" : 54.5,
+                      "surface" : 54.5,
+                      "surfaceGravity" : 292
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l02-m1",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      189.9,
+                      384.8
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1377.8,
+                      581.9
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 5,
+                "generatorVersion" : 1,
+                "seed" : 91,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.3,
+                  "order" : {
+                    "angleTenths" : 79,
+                    "powerTenths" : 917,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 9,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.841666666666667,
+                  "order" : {
+                    "angleTenths" : 69,
+                    "powerTenths" : 799,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 4.9,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 2.9583333333333335,
+                  "order" : {
+                    "angleTenths" : 1853,
+                    "powerTenths" : 912,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 14.4,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.2916666666666665,
+                  "order" : {
+                    "angleTenths" : 1847,
+                    "powerTenths" : 803,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 11,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 15,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        222.4,
+                        226.7
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        794.7,
+                        623.4
+                      ],
+                      "radius" : 92.5,
+                      "surface" : 92.5,
+                      "surfaceGravity" : 414
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        1352.8,
+                        655.3
+                      ],
+                      "radius" : 64,
+                      "surface" : 64,
+                      "surfaceGravity" : 446
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l02-m2",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      101.9,
+                      711.9
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1415,
+                      223.2
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 2,
+                "generatorVersion" : 1,
+                "seed" : 134,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.9166666666666665,
+                  "order" : {
+                    "angleTenths" : 3421,
+                    "powerTenths" : 856,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 8.4,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.475,
+                  "order" : {
+                    "angleTenths" : 3412,
+                    "powerTenths" : 969,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 6.3,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.8,
+                  "flightTime" : 3.4583333333333335,
+                  "order" : {
+                    "angleTenths" : 1640,
+                    "powerTenths" : 910,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 10.3,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.85,
+                  "order" : {
+                    "angleTenths" : 1649,
+                    "powerTenths" : 800,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 7.4,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 21.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        234.2,
+                        377.4
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        1207,
+                        634.6
+                      ],
+                      "radius" : 94,
+                      "surface" : 94,
+                      "surfaceGravity" : 370
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "metal",
+                      "position" : [
+                        522,
+                        398.1
+                      ],
+                      "radius" : 72,
+                      "surface" : 72,
+                      "surfaceGravity" : 368
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l02-m3",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      185.2,
+                      670.6
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1554.3,
+                      558.7
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 9,
+                "generatorVersion" : 1,
+                "seed" : 72,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.683333333333333,
+                  "order" : {
+                    "angleTenths" : 49,
+                    "powerTenths" : 975,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.3,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.9916666666666667,
+                  "order" : {
+                    "angleTenths" : 64,
+                    "powerTenths" : 912,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.8,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.4,
+                  "order" : {
+                    "angleTenths" : 1879,
+                    "powerTenths" : 898,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3.8,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.1416666666666666,
+                  "order" : {
+                    "angleTenths" : 1865,
+                    "powerTenths" : 986,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3,
+                  "shooter" : 2
+                }
+              ]
+            }
+          ],
+          "objectives" : [
+            {
+              "kind" : "winMatch"
+            },
+            {
+              "kind" : "slingshotHit",
+              "maxApproach" : 40
+            },
+            {
+              "kind" : "firstShotHit"
+            }
+          ],
+          "opponent" : {
+            "id" : "ashgrave",
+            "name" : {
+              "en" : "Ashgrave"
+            },
+            "parameters" : {
+              "initialNoise" : {
+                "angle" : 1.0392304845413265,
+                "power" : 1.5874507866387542
+              },
+              "noiseDecay" : 0.525,
+              "preferRobust" : true,
+              "searchBudget" : {
+                "angleGrowthLimitTenths" : 60,
+                "grid" : {
+                  "angleStepTenths" : 20,
+                  "powerStepTenths" : 50,
+                  "powerTenthsRange" : [
+                    50,
+                    1000
+                  ]
+                },
+                "maxRegions" : 8,
+                "powerGrowthLimitTenths" : 300,
+                "refineCandidates" : 16,
+                "refineSimulations" : 60,
+                "scanMaxSteps" : 1500
+              },
+              "selfRiskPenalty" : 0.5,
+              "thinkTimeFloor" : 0.8
+            },
+            "taunts" : [
+              {
+                "en" : "The dark is patient."
+              },
+              {
+                "en" : "Your shot is mine now."
+              }
+            ]
+          },
+          "rating" : 4.9,
+          "requires" : [
+            "body.blackhole",
+            "body.planet",
+            "objective.firstShotHit",
+            "objective.slingshotHit",
+            "objective.winMatch",
+            "weapon.standard"
+          ],
+          "rules" : {
+            "bestOf" : 3,
+            "firstShooter" : 1
+          },
+          "title" : {
+            "en" : "Twin Shadows"
+          }
+        },
+        {
+          "brief" : {
+            "en" : "Echo has been waiting out here, listening to every shot you fired."
+          },
+          "deprecated" : false,
+          "hints" : [
+            {
+              "en" : "Change your angle first; Echo expects your old power."
+            }
+          ],
+          "id" : "c4-l03",
+          "maps" : [
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 16.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        881.4,
+                        730.5
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        1018,
+                        478
+                      ],
+                      "radius" : 72.5,
+                      "surface" : 72.5,
+                      "surfaceGravity" : 410
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l03-m1",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      158.3,
+                      460.1
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1461.5,
+                      614.5
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 3,
+                "generatorVersion" : 1,
+                "seed" : 61,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.408333333333333,
+                  "order" : {
+                    "angleTenths" : 3501,
+                    "powerTenths" : 874,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.8,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.2583333333333333,
+                  "order" : {
+                    "angleTenths" : 321,
+                    "powerTenths" : 926,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.3,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.5833333333333335,
+                  "order" : {
+                    "angleTenths" : 2123,
+                    "powerTenths" : 875,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.8,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.933333333333333,
+                  "order" : {
+                    "angleTenths" : 2147,
+                    "powerTenths" : 800,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.6,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 19.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        197,
+                        785.3
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        1408,
+                        281.2
+                      ],
+                      "radius" : 86.5,
+                      "surface" : 86.5,
+                      "surfaceGravity" : 347
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        934,
+                        545.8
+                      ],
+                      "radius" : 58,
+                      "surface" : 58,
+                      "surfaceGravity" : 347
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "metal",
+                      "position" : [
+                        925,
+                        365.8
+                      ],
+                      "radius" : 54,
+                      "surface" : 54,
+                      "surfaceGravity" : 221
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l03-m2",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      218.8,
+                      592.3
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1437.4,
+                      478
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 5,
+                "generatorVersion" : 1,
+                "seed" : 52,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 8.133333333333333,
+                  "order" : {
+                    "angleTenths" : 3435,
+                    "powerTenths" : 711,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3.3,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.8666666666666667,
+                  "order" : {
+                    "angleTenths" : 3500,
+                    "powerTenths" : 953,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.5,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.2916666666666665,
+                  "order" : {
+                    "angleTenths" : 1768,
+                    "powerTenths" : 862,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 19.9,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.9,
+                  "flightTime" : 8.858333333333333,
+                  "order" : {
+                    "angleTenths" : 1847,
+                    "powerTenths" : 363,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 5.4,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 16,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        953.4,
+                        156
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "eventHorizon" : 17.5,
+                      "gm" : 10000000,
+                      "id" : 2,
+                      "position" : [
+                        872.4,
+                        612.1
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        539.8,
+                        242.5
+                      ],
+                      "radius" : 95.5,
+                      "surface" : 95.5,
+                      "surfaceGravity" : 427
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "rock",
+                      "position" : [
+                        333.1,
+                        185.2
+                      ],
+                      "radius" : 74.5,
+                      "surface" : 74.5,
+                      "surfaceGravity" : 240
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l03-m3",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      97.2,
+                      666.2
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1552.2,
+                      521.1
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 0,
+                "generatorVersion" : 1,
+                "seed" : 123,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.4583333333333335,
+                  "order" : {
+                    "angleTenths" : 168,
+                    "powerTenths" : 975,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.2,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.966666666666667,
+                  "order" : {
+                    "angleTenths" : 208,
+                    "powerTenths" : 848,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.7,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.591666666666667,
+                  "order" : {
+                    "angleTenths" : 1489,
+                    "powerTenths" : 951,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.9,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 3.8,
+                  "order" : {
+                    "angleTenths" : 1472,
+                    "powerTenths" : 899,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.7,
+                  "shooter" : 2
+                }
+              ]
+            }
+          ],
+          "objectives" : [
+            {
+              "kind" : "winMatch"
+            },
+            {
+              "kind" : "loseNoRound"
+            },
+            {
+              "kind" : "winWithoutAimAssist"
+            }
+          ],
+          "opponent" : {
+            "id" : "echo",
+            "name" : {
+              "en" : "Echo"
+            },
+            "parameters" : {
+              "initialNoise" : {
+                "angle" : 0.9311073443492157,
+                "power" : 1.4171268225970122
+              },
+              "noiseDecay" : 0.51,
+              "preferRobust" : true,
+              "searchBudget" : {
+                "angleGrowthLimitTenths" : 60,
+                "grid" : {
+                  "angleStepTenths" : 20,
+                  "powerStepTenths" : 50,
+                  "powerTenthsRange" : [
+                    50,
+                    1000
+                  ]
+                },
+                "maxRegions" : 8,
+                "powerGrowthLimitTenths" : 300,
+                "refineCandidates" : 16,
+                "refineSimulations" : 60,
+                "scanMaxSteps" : 1500
+              },
+              "selfRiskPenalty" : 0.5,
+              "thinkTimeFloor" : 0.8
+            },
+            "taunts" : [
+              {
+                "en" : "I've seen this shot before."
+              },
+              {
+                "en" : "Again. And again."
+              }
+            ]
+          },
+          "rating" : 4.7,
+          "requires" : [
+            "body.blackhole",
+            "body.planet",
+            "objective.loseNoRound",
+            "objective.winMatch",
+            "objective.winWithoutAimAssist",
+            "weapon.standard"
+          ],
+          "rules" : {
+            "bestOf" : 3,
+            "firstShooter" : 1
+          },
+          "title" : {
+            "en" : "Static"
+          }
+        },
+        {
+          "brief" : {
+            "en" : "Shots that skim the dark come back faster than they left."
+          },
+          "deprecated" : false,
+          "hints" : [
+            {
+              "en" : "A close pass adds speed; take a little power away."
+            }
+          ],
+          "id" : "c4-l04",
+          "maps" : [
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 19,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        288.8,
+                        677.7
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        575.5,
+                        314
+                      ],
+                      "radius" : 79.5,
+                      "surface" : 79.5,
+                      "surfaceGravity" : 359
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        1491.7,
+                        135.4
+                      ],
+                      "radius" : 63.5,
+                      "surface" : 63.5,
+                      "surfaceGravity" : 367
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "rock",
+                      "position" : [
+                        463,
+                        92.3
+                      ],
+                      "radius" : 57,
+                      "surface" : 57,
+                      "surfaceGravity" : 318
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l04-m1",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      46.8,
+                      286.5
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1499,
+                      557
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 3,
+                "generatorVersion" : 1,
+                "seed" : 21,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.775,
+                  "order" : {
+                    "angleTenths" : 99,
+                    "powerTenths" : 957,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 8.7,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.7916666666666665,
+                  "order" : {
+                    "angleTenths" : 1878,
+                    "powerTenths" : 849,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 14.6,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 5.25,
+                  "order" : {
+                    "angleTenths" : 1862,
+                    "powerTenths" : 550,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 5,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 19,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        1002.5,
+                        346
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "eventHorizon" : 16,
+                      "gm" : 10000000,
+                      "id" : 2,
+                      "position" : [
+                        374.4,
+                        200
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        1435.4,
+                        503.9
+                      ],
+                      "radius" : 74.5,
+                      "surface" : 74.5,
+                      "surfaceGravity" : 224
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l04-m2",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      52.4,
+                      375.3
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1378.9,
+                      675
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 0,
+                "generatorVersion" : 1,
+                "seed" : 6,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 3.8,
+                  "flightTime" : 8.233333333333333,
+                  "order" : {
+                    "angleTenths" : 2904,
+                    "powerTenths" : 446,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.9,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 3.6,
+                  "flightTime" : 13.608333333333333,
+                  "order" : {
+                    "angleTenths" : 2200,
+                    "powerTenths" : 401,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.2,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.8,
+                  "flightTime" : 3.625,
+                  "order" : {
+                    "angleTenths" : 1713,
+                    "powerTenths" : 899,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.2,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.9,
+                  "flightTime" : 3.85,
+                  "order" : {
+                    "angleTenths" : 1693,
+                    "powerTenths" : 850,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.9,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 20,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        854.9,
+                        388.8
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        1509.4,
+                        715.8
+                      ],
+                      "radius" : 52.5,
+                      "surface" : 52.5,
+                      "surfaceGravity" : 236
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "metal",
+                      "position" : [
+                        290.9,
+                        640.4
+                      ],
+                      "radius" : 49.5,
+                      "surface" : 49.5,
+                      "surfaceGravity" : 366
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "metal",
+                      "position" : [
+                        191.3,
+                        98.1
+                      ],
+                      "radius" : 48.5,
+                      "surface" : 48.5,
+                      "surfaceGravity" : 288
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l04-m3",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      152.8,
+                      553.3
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1330.8,
+                      167
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 1,
+                "generatorVersion" : 1,
+                "seed" : 106,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.3166666666666664,
+                  "order" : {
+                    "angleTenths" : 3572,
+                    "powerTenths" : 853,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 6.5,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.7416666666666667,
+                  "order" : {
+                    "angleTenths" : 3580,
+                    "powerTenths" : 751,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 6.2,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 2.95,
+                  "order" : {
+                    "angleTenths" : 1812,
+                    "powerTenths" : 975,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3.2,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.0166666666666666,
+                  "order" : {
+                    "angleTenths" : 1818,
+                    "powerTenths" : 951,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 2.9,
+                  "shooter" : 2
+                }
+              ]
+            }
+          ],
+          "objectives" : [
+            {
+              "kind" : "winMatch"
+            },
+            {
+              "kind" : "slingshotHit",
+              "maxApproach" : 30
+            },
+            {
+              "kind" : "winWithinShots",
+              "shots" : 8
+            }
+          ],
+          "opponent" : {
+            "id" : "echo",
+            "name" : {
+              "en" : "Echo"
+            },
+            "parameters" : {
+              "initialNoise" : {
+                "angle" : 0.8342335021895456,
+                "power" : 1.2650776000282444
+              },
+              "noiseDecay" : 0.495,
+              "preferRobust" : true,
+              "searchBudget" : {
+                "angleGrowthLimitTenths" : 60,
+                "grid" : {
+                  "angleStepTenths" : 20,
+                  "powerStepTenths" : 50,
+                  "powerTenthsRange" : [
+                    50,
+                    1000
+                  ]
+                },
+                "maxRegions" : 8,
+                "powerGrowthLimitTenths" : 300,
+                "refineCandidates" : 16,
+                "refineSimulations" : 60,
+                "scanMaxSteps" : 1500
+              },
+              "selfRiskPenalty" : 0.5,
+              "thinkTimeFloor" : 0.8
+            },
+            "taunts" : [
+              {
+                "en" : "I've seen this shot before."
+              },
+              {
+                "en" : "Again. And again."
+              }
+            ]
+          },
+          "rating" : 5.1,
+          "requires" : [
+            "body.blackhole",
+            "body.planet",
+            "objective.slingshotHit",
+            "objective.winMatch",
+            "objective.winWithinShots",
+            "weapon.standard"
+          ],
+          "rules" : {
+            "bestOf" : 3,
+            "firstShooter" : 1
+          },
+          "title" : {
+            "en" : "Event Shadow"
+          }
+        },
+        {
+          "availableFrom" : "2026-10-25T00:00:00Z",
+          "brief" : {
+            "en" : "Warden Horizon was not the last guardian. Arriving soon."
+          },
+          "deprecated" : false,
+          "hints" : [
+            {
+              "en" : "Horizon rarely misses twice."
+            }
+          ],
+          "id" : "c4-l05",
+          "maps" : [
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 16.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        578.8,
+                        271.6
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        979.7,
+                        521.8
+                      ],
+                      "radius" : 97,
+                      "surface" : 97,
+                      "surfaceGravity" : 280
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l05-m1",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      54.1,
+                      536.6
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1397.5,
+                      433.9
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 4,
+                "generatorVersion" : 1,
+                "seed" : 37,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.8333333333333335,
+                  "order" : {
+                    "angleTenths" : 167,
+                    "powerTenths" : 824,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.7,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 4.525,
+                  "order" : {
+                    "angleTenths" : 215,
+                    "powerTenths" : 700,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.2,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.8916666666666666,
+                  "order" : {
+                    "angleTenths" : 1500,
+                    "powerTenths" : 798,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.7,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 4.125,
+                  "order" : {
+                    "angleTenths" : 1484,
+                    "powerTenths" : 751,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.5,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 19.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        589.3,
+                        293.6
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 2,
+                      "material" : "rock",
+                      "position" : [
+                        670,
+                        677.3
+                      ],
+                      "radius" : 88.5,
+                      "surface" : 88.5,
+                      "surfaceGravity" : 418
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        1269.5,
+                        173.8
+                      ],
+                      "radius" : 45,
+                      "surface" : 45,
+                      "surfaceGravity" : 269
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l05-m2",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      212.6,
+                      646.5
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1483.9,
+                      193.8
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 4,
+                "generatorVersion" : 1,
+                "seed" : 85,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.4499999999999997,
+                  "order" : {
+                    "angleTenths" : 3478,
+                    "powerTenths" : 907,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 5.7,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.8916666666666666,
+                  "order" : {
+                    "angleTenths" : 3489,
+                    "powerTenths" : 796,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3.9,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.7,
+                  "flightTime" : 3.0166666666666666,
+                  "order" : {
+                    "angleTenths" : 1535,
+                    "powerTenths" : 982,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 3.8,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.5,
+                  "flightTime" : 3.375,
+                  "order" : {
+                    "angleTenths" : 1519,
+                    "powerTenths" : 854,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 4.1,
+                  "shooter" : 2
+                }
+              ]
+            },
+            {
+              "level" : {
+                "bodies" : [
+                  {
+                    "body" : {
+                      "eventHorizon" : 17.5,
+                      "gm" : 10000000,
+                      "id" : 1,
+                      "position" : [
+                        398.1,
+                        698.9
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "eventHorizon" : 17.5,
+                      "gm" : 10000000,
+                      "id" : 2,
+                      "position" : [
+                        1470.2,
+                        409.9
+                      ]
+                    },
+                    "kind" : "blackHole"
+                  },
+                  {
+                    "body" : {
+                      "id" : 3,
+                      "material" : "rock",
+                      "position" : [
+                        474.7,
+                        485.2
+                      ],
+                      "radius" : 77.5,
+                      "surface" : 77.5,
+                      "surfaceGravity" : 332
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 4,
+                      "material" : "rock",
+                      "position" : [
+                        747.1,
+                        382
+                      ],
+                      "radius" : 71,
+                      "surface" : 71,
+                      "surfaceGravity" : 296
+                    },
+                    "kind" : "planet"
+                  },
+                  {
+                    "body" : {
+                      "id" : 5,
+                      "material" : "rock",
+                      "position" : [
+                        1061.3,
+                        273.2
+                      ],
+                      "radius" : 54,
+                      "surface" : 54,
+                      "surfaceGravity" : 266
+                    },
+                    "kind" : "planet"
+                  }
+                ],
+                "levelID" : "c4-l05-m3",
+                "schemaVersion" : 1,
+                "ships" : [
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 1,
+                    "position" : [
+                      217.9,
+                      740.5
+                    ]
+                  },
+                  {
+                    "loadout" : {
+                      "entries" : [
+                        {
+                          "weapon" : "standard"
+                        }
+                      ]
+                    },
+                    "player" : 2,
+                    "position" : [
+                      1319.5,
+                      725.4
+                    ]
+                  }
+                ]
+              },
+              "physicsProfile" : "p1",
+              "provenance" : {
+                "attempt" : 0,
+                "generatorVersion" : 1,
+                "seed" : 149,
+                "settings" : {
+                  "blackHoleCount" : [
+                    1,
+                    2
+                  ],
+                  "blackHoleStrength" : 1,
+                  "planetCount" : [
+                    1,
+                    3
+                  ],
+                  "radiusRange" : [
+                    40,
+                    100
+                  ],
+                  "surfaceGravityRange" : [
+                    200,
+                    450
+                  ]
+                },
+                "usedFallback" : false
+              },
+              "referenceSolutions" : [
+                {
+                  "angleTolerance" : 2.1,
+                  "flightTime" : 6.316666666666666,
+                  "order" : {
+                    "angleTenths" : 2964,
+                    "powerTenths" : 717,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1.6,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 0.9,
+                  "flightTime" : 3.625,
+                  "order" : {
+                    "angleTenths" : 491,
+                    "powerTenths" : 950,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 1,
+                  "shooter" : 1
+                },
+                {
+                  "angleTolerance" : 1.1,
+                  "flightTime" : 2.7416666666666667,
+                  "order" : {
+                    "angleTenths" : 1638,
+                    "powerTenths" : 950,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 4,
+                  "shooter" : 2
+                },
+                {
+                  "angleTolerance" : 0.6,
+                  "flightTime" : 2.6083333333333334,
+                  "order" : {
+                    "angleTenths" : 1812,
+                    "powerTenths" : 942,
+                    "weapon" : "standard"
+                  },
+                  "powerTolerance" : 7.1,
+                  "shooter" : 2
+                }
+              ]
+            }
+          ],
+          "objectives" : [
+            {
+              "kind" : "winMatch"
+            },
+            {
+              "kind" : "loseNoRound"
+            },
+            {
+              "kind" : "firstShotHit"
+            }
+          ],
+          "opponent" : {
+            "id" : "horizon",
+            "name" : {
+              "en" : "Warden Horizon"
+            },
+            "parameters" : {
+              "initialNoise" : {
+                "angle" : 0.6696739044203427,
+                "power" : 1.0081706768887824
+              },
+              "noiseDecay" : 0.465,
+              "preferRobust" : true,
+              "searchBudget" : {
+                "angleGrowthLimitTenths" : 60,
+                "grid" : {
+                  "angleStepTenths" : 20,
+                  "powerStepTenths" : 50,
+                  "powerTenthsRange" : [
+                    50,
+                    1000
+                  ]
+                },
+                "maxRegions" : 8,
+                "powerGrowthLimitTenths" : 300,
+                "refineCandidates" : 16,
+                "refineSimulations" : 60,
+                "scanMaxSteps" : 1500
+              },
+              "selfRiskPenalty" : 0.5,
+              "thinkTimeFloor" : 0.8
+            },
+            "taunts" : [
+              {
+                "en" : "Past the edge, there is only me."
+              },
+              {
+                "en" : "Light doesn't leave. Neither will you."
+              }
+            ]
+          },
+          "rating" : 5.2,
+          "requires" : [
+            "body.blackhole",
+            "body.planet",
+            "objective.firstShotHit",
+            "objective.loseNoRound",
+            "objective.winMatch",
+            "weapon.standard"
+          ],
+          "rules" : {
+            "bestOf" : 3,
+            "firstShooter" : 1
+          },
+          "title" : {
+            "en" : "Signal Lost"
+          }
+        }
+      ],
+      "title" : {
+        "en" : "Beyond the Horizon"
+      },
+      "unlock" : {
+        "kind" : "levelComplete",
+        "levelID" : "c3-l10"
+      }
+    }
+  ],
+  "minAppVersion" : "1.0",
+  "packID" : "c4-preview",
+  "packVersion" : 1,
+  "requires" : [
+    "weapon.standard"
+  ],
+  "schemaVersion" : 1
+}
